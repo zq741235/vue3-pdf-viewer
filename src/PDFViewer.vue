@@ -5,8 +5,8 @@
 <script>
 import * as pdfjsLib from "pdfjs-dist";
 import pdfjsWorker from "pdfjs-dist/build/pdf.worker.mjs?worker&url" 
-pdfjsLib.GlobalWorkerOptions.workerSrc = `/node_modules/vue3-pdf-viewer/dist${pdfjsWorker}`
-const CMAP_URL = "/node_modules/vue3-pdf-viewer/dist/cmaps/";
+pdfjsLib.GlobalWorkerOptions.workerSrc = `/node_modules/@wfxcqsc/vue3-pdf-viewer/dist${pdfjsWorker}`
+const CMAP_URL = "/node_modules/@wfxcqsc/vue3-pdf-viewer/dist/cmaps/";
 const CMAP_PACKED = true;
 export default {
   name: "PdfViewer",

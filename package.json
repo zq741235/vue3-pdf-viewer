@@ -1,16 +1,16 @@
 {
-  "name": "vue3-pdf-viewer",
-  "version": "0.0.0",
+  "name": "@wfxcqsc/vue3-pdf-viewer",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/pdf-viewer.umd.cjs",
   "module": "dist/pdf-viewer.js",
-  "scripts": { 
+  "scripts": {
     "build": "vite build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zq741235/vue3-pdf-viewer.git"
-  }, 
+  },
   "dependencies": {
     "glob": "^11.0.0",
     "pdfjs-dist": "^4.6.82",
