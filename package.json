@@ -7,6 +7,10 @@
   "scripts": {
     "build": "vite build"
   },
+  "keywords": [
+    "vue3",
+    "pdf"
+],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zq741235/vue3-pdf-viewer.git"
