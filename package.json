@@ -1,6 +1,6 @@
 {
   "name": "@wfxcqsc/vue3-pdf-viewer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "dist/pdf-viewer.umd.cjs",
   "module": "dist/pdf-viewer.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "vue3",
     "pdf"
-],
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zq741235/vue3-pdf-viewer.git"
